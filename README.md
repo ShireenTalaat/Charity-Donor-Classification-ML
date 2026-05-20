@@ -12,8 +12,7 @@ This project develops a supervised machine learning solution to identify individ
 
 The machine learning pipeline for donor classification involves several stages: data ingestion, preprocessing, feature engineering, model training, evaluation, and prediction. Raw data is loaded and cleaned, followed by the creation of relevant features. Multiple supervised learning algorithms are then trained and cross-validated. The best-performing model is selected based on key metrics (e.g., F1-score, accuracy) and used to predict potential donors. The architecture emphasizes an iterative approach to model development and optimization.
 
-![ML Pipeline Architecture](ml_pipeline_architecture.png)
-
+![ML Pipeline Architecture](https://github.com/ShireenTalaat/Charity-Donor-Classification-ML/blob/7616f544085cf99aef5e7d3e81db04e48a59b243/chairty.jpg)
 ## Technologies Used
 
 -   **Programming Language:** Python
